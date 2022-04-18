@@ -1,0 +1,48 @@
+{
+    "popular_artist": [
+        {
+            "name": "Rich Brian",
+            "url": "https://music.apple.com/us/artist/rich-brian/1023207266"
+        },
+        {
+            "name": "Banda Neira",
+            "url": "https://music.apple.com/us/artist/banda-neira/956115239"
+        },
+        {
+            "name": "Payung Teduh",
+            "url": "https://music.apple.com/us/artist/payung-teduh/936241603"
+        },
+        {
+            "name": "Bring Me The Horizon",
+            "url": "https://music.apple.com/us/artist/bring-me-the-horizon/121043936"
+        },
+        {
+            "name": "Tulus",
+            "url": "https://music.apple.com/us/artist/tulus/1001681665"
+        },
+        {
+            "name": "Fourtwnty",
+            "url": "https://music.apple.com/us/artist/fourtwnty/1003855247"
+        },
+        {
+            "name": "Kunto Aji",
+            "url": "https://music.apple.com/us/artist/kunto-aji/636803660"
+        },
+        {
+            "name": "Hindia",
+            "url": "https://music.apple.com/us/artist/hindia/1440146558"
+        },
+        {
+            "name": "Barasuara",
+            "url": "https://music.apple.com/us/artist/barasuara/1039595097"
+        },
+        {
+            "name": "Ardhito Pramono",
+            "url": "https://music.apple.com/us/artist/ardhito-pramono/1219784065"
+        }
+    ],
+    "best_artist_month": {
+        "name": "Hindia",
+        "url": "https://music.apple.com/us/artist/hindia/1440146558"
+    }
+}
