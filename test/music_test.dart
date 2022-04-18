@@ -12,13 +12,6 @@ void main() {
   MusicService musicService =
       MusicService(apiRepository, recentMusicPlayedRepository);
 
-  test('get popular artist', () async {
-    List<Artist> listArtist = await musicService.getArtist();
-    expect(listArtist.isNotEmpty, isTrue);
-    expect(
-        listArtist.where((element) => element.bestMonthly).length == 1, isTrue);
-  });
-
   group('search', () {
     test('search music failed', () async {
       List<Music> result = await musicService.search('');
